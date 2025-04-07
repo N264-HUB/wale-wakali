@@ -1,19 +1,19 @@
-Unigine - Epic Games Made For True Gamers!
+MY PORTIFOLIO!
 
-This is an esports and gaming html template made by codewithsadee
+This is MY PORTIFOLIO and made using html template made by codewithsadee
 
 
 
 #---------- HEADER ----------#
 
-alt = unigine home
+alt = portifolio home
 
 home
 tournament
 news
 contact
 
-join our team
+my portifolio
 
 aria-label = toggle menu
 
