@@ -168,7 +168,7 @@ html {
 
 body {
   background-color: var(--bg-dark-purple);
-  background-image: url("");
+  background-image: url("./assert/logoo.jpg");
   background-repeat: repeat;
   color: var(--text-gainsboro);
   font-family: var(--fontFamily-oxanium);
