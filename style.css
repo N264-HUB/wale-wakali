@@ -168,7 +168,7 @@ html {
 
 body {
   background-color: var(--bg-dark-purple);
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaojQurJrGhm6iyameUokR-7qMaLdKjtAI7A&s");
+  background-image: url("");
   background-repeat: repeat;
   color: var(--text-gainsboro);
   font-family: var(--fontFamily-oxanium);
